@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @calimaborges, a full stack developer, specialized in Node.js, React and Typescript web applications. Working in the technology industry since 2009, mainly with PHP, Java and JavaScript using multiple frameworks and libraries
-- 👀 I’m interested in Next.js, TypeScript and Python
-- 🌱 I’m currently learning Terraform, Ansible and other DevOps topics
-- 💞️ I’m looking to collaborate on web projects to improve organization and privacy
-- 📫 How to reach me at twitter.com/calimaborges
+Hello! My name is Carlos Augusto, I am a full stack developer, specialized in Node.js, React and Typescript web applications. Working in the technology industry since 2009, mainly with PHP, Java and JavaScript using multiple frameworks and libraries.
 
-<!---
-calimaborges/calimaborges is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Additionally, due to Linux administration background, recently accepted the challenge to lead a DevOps team, adopting infrastructure as code using Terraform, Ansible, and Kubernetes.
+
+You can find me at [twitter.com/calimaborges](twitter.com/calimaborges). I also have a very outdated website that I plan to update soon here: [carlosborg.es](https://carlosborg.es/).
