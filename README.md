@@ -7,3 +7,4 @@
   I build web applications with a focus on simplicity and long-term maintainability.<br>
   Currently hacking on Emacs, Linux, and minimalist web tech.
 </div>
+
