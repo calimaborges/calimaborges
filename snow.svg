@@ -1,0 +1,37 @@
+<svg width="800" height="150" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    /* The Falling Animation */
+    .snowflake { fill: white; animation: fall linear infinite; }
+    @keyframes fall {
+      0% { transform: translateY(-10px); }
+      100% { transform: translateY(170px); } /* Drops just below height */
+    }
+  </style>
+
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" 
+        fill="#4af626" font-family="monospace" font-size="24" font-weight="bold">
+    Merry Christmas!
+  </text>
+
+  <circle class="snowflake" cx="5%" cy="-10" r="2" style="opacity: 0.8; animation-duration: 5.2s; animation-delay: -1.2s;" />
+  <circle class="snowflake" cx="12%" cy="-10" r="1" style="opacity: 0.6; animation-duration: 7.1s; animation-delay: -3.5s;" />
+  <circle class="snowflake" cx="18%" cy="-10" r="3" style="opacity: 0.9; animation-duration: 4.5s; animation-delay: -0.5s;" />
+  <circle class="snowflake" cx="25%" cy="-10" r="2" style="opacity: 0.7; animation-duration: 6.3s; animation-delay: -4.1s;" />
+  <circle class="snowflake" cx="33%" cy="-10" r="1" style="opacity: 0.5; animation-duration: 8.0s; animation-delay: -2.8s;" />
+  <circle class="snowflake" cx="41%" cy="-10" r="2" style="opacity: 0.8; animation-duration: 5.5s; animation-delay: -1.9s;" />
+  <circle class="snowflake" cx="48%" cy="-10" r="3" style="opacity: 1.0; animation-duration: 4.8s; animation-delay: -0.2s;" />
+  <circle class="snowflake" cx="55%" cy="-10" r="1" style="opacity: 0.6; animation-duration: 7.5s; animation-delay: -3.8s;" />
+  <circle class="snowflake" cx="62%" cy="-10" r="2" style="opacity: 0.9; animation-duration: 5.9s; animation-delay: -2.4s;" />
+  <circle class="snowflake" cx="70%" cy="-10" r="2" style="opacity: 0.7; animation-duration: 6.1s; animation-delay: -1.5s;" />
+  <circle class="snowflake" cx="78%" cy="-10" r="1" style="opacity: 0.5; animation-duration: 8.5s; animation-delay: -4.5s;" />
+  <circle class="snowflake" cx="85%" cy="-10" r="3" style="opacity: 0.8; animation-duration: 4.2s; animation-delay: -0.9s;" />
+  <circle class="snowflake" cx="92%" cy="-10" r="2" style="opacity: 0.9; animation-duration: 5.7s; animation-delay: -2.1s;" />
+  <circle class="snowflake" cx="3%" cy="-10" r="1" style="opacity: 0.6; animation-duration: 7.8s; animation-delay: -3.2s;" />
+  <circle class="snowflake" cx="98%" cy="-10" r="2" style="opacity: 0.8; animation-duration: 6.5s; animation-delay: -1.0s;" />
+  <circle class="snowflake" cx="15%" cy="-10" r="2" style="opacity: 0.7; animation-duration: 5.4s; animation-delay: -4.8s;" />
+  <circle class="snowflake" cx="38%" cy="-10" r="1" style="opacity: 0.5; animation-duration: 8.2s; animation-delay: -2.6s;" />
+  <circle class="snowflake" cx="66%" cy="-10" r="3" style="opacity: 0.9; animation-duration: 4.6s; animation-delay: -0.4s;" />
+  <circle class="snowflake" cx="82%" cy="-10" r="2" style="opacity: 0.8; animation-duration: 6.0s; animation-delay: -3.9s;" />
+  <circle class="snowflake" cx="28%" cy="-10" r="1" style="opacity: 0.6; animation-duration: 7.3s; animation-delay: -1.7s;" />
+  <circle class="snowflake" cx="52%" cy="-10" r="2" style="opacity: 0.9; animation-duration: 5.1s; animation-delay: -2.9s;" />
+</svg>
